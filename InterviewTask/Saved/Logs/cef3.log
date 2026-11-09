@@ -1,25 +1,36 @@
-[14712:15068:1108/231438.001:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[14712:15068:1108/231438.707:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[11228:1504:1108/231500.117:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-1C4AB272EDADA9F6162546533A3FFD16 will be ignored
-[14344:9384:1108/231501.915:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[14344:18568:1108/231503.123:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[14344:18568:1108/231503.159:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[14344:18568:1108/231503.313:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[14712:18436:1108/231507.456:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
-[14712:18436:1108/231508.780:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[14712:15068:1108/231508.780:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[14712:15068:1108/231508.781:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[14712:15068:1108/231508.781:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[14712:15068:1108/231508.781:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[7820:15220:1108/231509.463:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[7820:8724:1108/231509.680:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[7820:8724:1108/231509.681:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[7820:8724:1108/231509.681:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[7820:15220:1108/231525.599:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[7820:15220:1108/231525.673:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[7820:8724:1108/231525.680:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[7820:8724:1108/231525.680:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[7820:8724:1108/231525.681:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[13676:16904:1108/231737.039:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[13676:16904:1108/231737.039:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[14712:15068:1108/232930.802:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[21364:17116:1108/233852.509:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[21364:17116:1108/233852.607:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[14420:12784:1108/233859.708:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-435C657ED284235FAC6C4645D20297DA will be ignored
+[20800:9980:1108/234624.352:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 8-208C8C91760656EFC034A32C4E796A88 will be ignored
+[21364:20496:1108/235508.101:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,10]
+[21364:17116:1108/235508.225:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,10]
+[21364:17116:1108/235508.225:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,10]
+[21364:17116:1108/235508.225:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,10]
+[21364:17116:1108/235508.226:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,10]
+[21364:17116:1108/235508.227:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,13]
+[21364:17116:1108/235508.228:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,13]
+[21364:17116:1108/235508.228:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,13]
+[21364:17116:1108/235508.228:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,13]
+[21364:17116:1108/235510.845:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[21364:17116:1108/235510.869:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[2744:15232:1108/235611.970:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame A-3A4D268C9B21AA50A48711CB7E421A16 will be ignored
+[22924:16676:1108/235612.665:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame C-C5183F8F6DB69DD38018655E71983D17 will be ignored
+[20144:21624:1108/235612.743:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 1
+[20144:21624:1108/235612.743:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 7
+[20144:21624:1108/235612.743:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 3
+[20144:21624:1108/235612.743:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 5
+[20144:21624:1108/235612.743:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 9
+[20144:21624:1108/235612.745:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 13
+[20144:21624:1108/235612.745:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 15
+[21364:20496:1108/235645.976:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,9]
+[21364:17116:1108/235645.982:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,9]
+[21364:17116:1108/235645.982:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,9]
+[21364:17116:1108/235645.982:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,9]
+[21364:17116:1108/235645.982:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,9]
+[21364:17116:1108/235645.984:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,12]
+[21364:17116:1108/235645.985:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,12]
+[21364:17116:1108/235645.985:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,12]
+[21364:17116:1108/235645.985:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,12]
+[21364:17116:1108/235646.699:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[21364:17116:1108/235646.699:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[21364:17116:1109/000804.402:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
